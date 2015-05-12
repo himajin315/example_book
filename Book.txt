@@ -2,7 +2,6 @@ cover
 frontmatter:
 maketitle
 tableofcontents
-preface.md
 mainmatter:
-chapter_01.md
+beginning.md
 
