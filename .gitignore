@@ -36,3 +36,4 @@ media/
 log/
 *.bak
 .DS_Store
+*~
