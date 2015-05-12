@@ -1,0 +1,11 @@
+---
+slug: example_book
+filename: example_book
+title: Title of the Book
+subtitle: Change me
+description: Change me.
+author: Author Name
+copyright: 2015
+uuid: 6acbff5e-7bc7-480b-b33b-a885d74ec520
+pdf_preview_page_range: 1..30
+epub_mobi_preview_chapter_range: 0..1
